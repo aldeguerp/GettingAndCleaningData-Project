@@ -5,6 +5,7 @@
 Information in tidy data:
 * subjectId: Identification of the person who collaborated in the activity. Only a number to 1 to 30
 * activityDescription: Activity the person was doing: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+
 Average for the means and Standar desviations of the measures recorded by each person and activity for the following features:
 * tBodyAcc-XYZ
 * tGravityAcc-XYZ
@@ -23,6 +24,7 @@ Average for the means and Standar desviations of the measures recorded by each p
 * fBodyAccJerkMag
 * fBodyGyroMag
 * fBodyGyroJerkMag
+
 More information about this information is available in Code book of the original data in file features_info.txt
 
 ## Information about the summary choices you made
